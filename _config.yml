@@ -1,0 +1,28 @@
+name: DraftSite1
+favicon: null
+layout_spectrum: 0.8204297518823296
+typography_spectrum: 0.1900551742874086
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7950840864796191
+  lightness: 0.2448469891678542
+  saturation: 0.7295491469558328
+  rhythmicContrast: 0.6368493093177676
+purpose: []
